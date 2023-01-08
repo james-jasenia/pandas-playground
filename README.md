@@ -27,4 +27,4 @@
 - `df.to_html()`
 
 ### Helpers
-You can press `tab` to bring up autocomplete.
+- You can press `tab` to bring up autocomplete.
